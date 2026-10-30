@@ -1,2 +1,1 @@
-# threatsite
-ThreatSite — harmless antivirus detection test lab
+# ThreatSite\n\nA static educational antivirus test page. It creates the standard EICAR test pattern only when the visitor explicitly presses the test button. It contains no malware or exploit code.\n\n## Deploy\nEnable GitHub Pages from the `main` branch, root folder.\n\n## Important\nEICAR tests file detection, not website reputation. A successful EICAR test does not mean Bitdefender will classify this site's URL as malicious.
